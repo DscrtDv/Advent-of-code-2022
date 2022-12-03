@@ -4,7 +4,7 @@
 # include <stddef.h>
 # include <stdio.h>
 # include <fcntl.h>
-# include "gnl/get_next_line.h"
+# include "../gnl/get_next_line.h"
 
 typedef struct
 {

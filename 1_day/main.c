@@ -1,4 +1,4 @@
-#include "get_next_line.h"
+#include "../gnl/get_next_line.h"
 #include <stdio.h>
 #include <limits.h>
 #include <fcntl.h>

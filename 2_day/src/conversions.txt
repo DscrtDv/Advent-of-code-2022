@@ -1,4 +1,3 @@
----------part I------------
 A = 	Rock		= X	= 1
 B = 	Paper		= Y	= 2	
 C = 	Scissors	= Z	= 3
@@ -13,15 +12,3 @@ struct choice
 	win 	= C
 	draw 	= A
 	loose 	= B
-
----------part II-----------
-X = loose
-y = draw
-z = win
-
-B	X
-
-opmove = B = Paper
-condition = X = loose
-
-
