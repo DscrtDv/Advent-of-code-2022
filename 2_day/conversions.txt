@@ -1,0 +1,14 @@
+A = 	Rock		= X	= 1
+B = 	Paper		= Y	= 2	
+C = 	Scissors	= Z	= 3
+		Win				= 6
+		Draw			= 3
+		Loose			= 0
+
+struct choice
+
+	shape 	= A
+	value 	= 1
+	win 	= C
+	draw 	= A
+	loose 	= B
